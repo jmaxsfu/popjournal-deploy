@@ -1,0 +1,469 @@
+/* Core Stuff */
+
+@import url("https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css");
+
+
+/* COLOUR and TYPE SCHEME 
+
+    The Orange #FC671F
+    The Blue links: #1F8CD6
+    The body text: #220
+    The sidebar text: #666
+    The grey nav: #999
+    The white bits: white
+
+    Serif: tzimmes
+    Sans: motiva-sans
+*/
+
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0; margin: 0;
+}
+
+html, button, input, select, textarea,
+    .pure-g [class *= "pure-u"] {
+    font-family: 'tzimmes', Georgia, serif; 
+}
+
+html, body {
+    line-height: 1.3em;
+    color: #220;
+   /*color: #606d6e;*/
+}
+
+ /* ==========LAYOUT ============================================== */
+
+/*  FOR TESTING PURPOSES  */
+.pure-u-md-1-4 {border: 0px red solid;}
+.pure-u-md-3-4 {border: 0px purple solid;}
+#authordate {border: 0px blue solid;}
+#maincontent {border: 0px green solid;}
+
+
+
+.header {
+    background-color: #FC671F; 
+    color: white;
+    height: 156px;    /*Height of the logo plus some*/
+    padding: 0 2.5rem;
+    margin-bottom: 5rem;
+    border-top: 7px #333 solid;
+    margin-top: 0px;
+}
+
+.header .logo img { margin-top: 3px;}
+
+
+
+div.deck { color: #FC671F; 
+    font-family: motiva-sans; font-weight: 300;
+    font-size: 1.5rem; line-height: 1.3em;
+    margin: 1rem 0rem 0rem 0;
+}
+
+h1.title {
+    font-size: 3.6rem; font-weight: 400; line-height: 4.5rem; 
+    margin-bottom: .25rem; margin-top: 1rem;}
+h1.subtitle { font-size: 1.75rem; font-weight: 300; font-style: italic; line-height: 1.1em;
+    margin: 1rem 0;}
+@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
+    h1.title {
+        font-size: 2rem; font-weight: 300; line-height: 2.25rem; 
+        margin-bottom: .25rem; margin-top: 2.6rem;}
+    h1.subtitle { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
+        margin:0em;}
+    div.deck { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
+        margin:0em; color: #FC671F;}
+}
+
+#authordate {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.authorblock {
+    /*border: 1px #FC671F solid ;*/
+    margin-right: 1rem; margin-bottom: 1rem;
+    position: relative;
+}
+.authorblock p {
+    font-family: motiva-sans; 
+    font-size: 1rem; line-height: 1.5em;  
+    margin: 0em; text-indent: 0;  /* para styling */
+}    
+.authorblock p.author {
+   text-transform: lowercase; font-variant: small-caps; letter-spacing: .09em;
+   line-height: 1.8em; font-weight: 400;
+}
+.authorblock p.author span.auname {  padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
+
+.authorblock p.author:hover + div.aubio p {   visibility: visible;} 
+
+.authorblock .aubio p {
+    visibility: hidden; 
+    background-color: #f8f8f0; padding: 1em;
+    border: 1px #d8d8d0 solid;
+    font-size: .8rem; width: 20rem;
+    position: absolute; top: 2em; left: 2em; z-index: 1;
+}
+
+
+.authorblock p.authoraffil, .authorblock p.authoremail { font-size: .96rem; }
+.authorblock p.authoraffil {font-style: italic; }
+
+p.pubdate {
+    text-align: left; margin-right: 5em; margin-top: 0;
+    font-family: motiva-sans; line-height: 1.8em; font-weight: 400;
+    text-transform: lowercase; font-variant-caps: small-caps; font-variant-numeric: oldstyle-nums; letter-spacing: .09em;
+}
+p.pubdate span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
+
+
+/*THIS IS THE BODY TYPE*/
+section.articlecontent, .static {
+    font-weight: 400; font-size: 1.1rem; line-height: 1.85rem;
+    margin-right: 5rem;    /*GUTTER*/
+}
+strong {font-weight: 600;}
+
+@media  (max-width: 640px) {     /* SMALLER MARGINS ON MOBILE */
+section.articlecontent { margin: 0em;}
+
+}
+.metadata-block { 
+    margin-top: 0rem; line-height: 1.65rem;
+    font-family: motiva-sans; font-size: 85%; color: #666;
+}
+.metadata-block p {
+    margin-bottom: 2rem; text-indent: 0; 
+}
+.metadata-block p.metahead {
+   font-weight: 500;
+   margin-bottom: 0.5rem;
+}
+.metadata-block p.metahead span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;} 
+
+/*hide crossref data when the xml-building code is in place*/
+journal_article {display: none;}
+
+hr {color: #FC671F;}
+
+.footer { 
+          padding: 0 7em;
+          background-color: #eee;
+          border-top: 2px #FC671F solid; 
+          border-bottom: 7px #333 solid; 
+          clear: both;  font-size: .8rem;
+      }
+
+h2.break {text-align: center; letter-spacing: 0.5em;}
+
+
+/* ISSUE TABLE OF CONTENTS */ 
+
+.articlelink {
+    /*border: 1px orange solid;*/
+    display: block; float: left;  text-overflow: wrap;
+    font-size: 2.0rem; font-weight: 300; line-height: 1.4em; 
+    margin-top: 1rem; 
+}
+@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
+  .articlelink {
+    font-size: 1.6rem; line-height: 1.2em;
+  }
+}
+
+.articlelink:last-child {
+    margin-bottom: 2rem;
+}
+
+.articlelink .authorname {
+    display: block;
+    text-transform: uppercase; font-size: 1rem; letter-spacing: .09em;
+    line-height: 2.1rem; margin-top: 0.1rem;
+    position: relative; bottom: 0em;
+    padding-left: 1em; text-indent: -1em;
+}
+@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
+  .articlelink .authorname {
+    font-size: 0.75rem; line-height: 1.2rem;
+  }
+}
+
+.articlelink .authorname:before {
+    content: "\25a0"; color: #FC671F;
+    position: relative; bottom: .05em;
+}
+
+
+
+/* GENERICS */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    color: #454B4D;
+    margin-top: 1em; margin-bottom: 0;
+    line-height: 1.3em;
+}
+
+
+h1 {font-size: 4rem; font-weight: 400; line-height: 4.5rem;}
+
+p { margin-top: 1rem; text-indent: 0; }
+p+p { margin-top: 0rem; text-indent: 1.3rem; }
+
+.static p+p { margin-top: 1rem; text-indent: 0; }
+div.refs p, div.refs p+p { margin-top: 1.4rem; margin-left: 2em; text-indent: -2em; }
+
+div.refs {margin-bottom: 2rem;}
+
+div.footnotes:before {
+    content:"Notes:";
+}
+
+p {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+a {
+    color: #1F8CD6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #175E91;
+}
+
+
+
+figure {
+    margin: 2.6rem 0; width:100%;
+}
+figure figcaption {padding: 0 2em;}
+
+img {
+    max-width: 100%;
+    object-fit: contain;
+    border: 1px #dee solid;
+}
+.logo img {border: 0;}
+
+figcaption {
+   width: 100%;
+   font-size: .95rem;
+}
+
+pre {
+    background: #F0F0F0;
+    font-size: 90%;
+    margin: 1rem 0.3rem;
+    border-radius: 2px;
+}
+
+blockquote {
+    border-left: 10px solid #eee;
+    margin: 0;
+    padding: 0 2rem;
+}
+
+ul {margin-top: 1.3em;}
+ul li {list-style: circle;}
+
+/* Utility Classes */
+
+.vpad {padding: 1.3rem 0;}
+.hpad {padding: 0 2.6rem;}
+
+.wrapper { margin: 0rem 8rem; }
+
+@media  (max-width: 640px) {     /* COLLAPSE OUTER MARGINS ON MOBILE */
+  .wrapper { margin: .5rem; }
+}
+
+.padding {
+    padding: 0rem 0rem;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+
+/* Menu Settings */
+.main-nav {    
+    position: absolute; right: 0; top: 130px; /* pin to bottom of orange */
+    font-family: motiva-sans; font-size: 1rem;
+}
+.main-nav ul {
+    /*letter-spacing: -1em;*/
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav ul li {
+    display: inline-block;
+    letter-spacing: normal;
+}
+
+.main-nav ul li a {
+    position: relative;
+    display: block;
+    line-height: 1.8rem;
+    color: white;
+    padding: 0 20px;
+    white-space: nowrap;
+}
+
+.main-nav > ul > li > a {
+    border-radius: 2px;
+}
+
+/* Non-Active dropdown nav item */
+.main-nav ul li:hover > a {
+    color: #FC671F;
+    background-color: #eee;
+}
+
+/* Selected Dropdown nav item */
+.main-nav ul li.selected > a {
+    background-color: white;
+    color: #220;        
+}
+
+/* Dropdown CSS */
+.main-nav ul li {position: relative;}
+
+.main-nav ul li ul {
+    position: absolute;
+    background-color: #1F8DD6;
+    min-width: 100%;
+    text-align: left;
+    z-index: 999;
+
+    display: none;
+}
+.main-nav ul li ul li {
+    display: block;
+}
+
+/* Dropdown CSS */
+.main-nav ul li ul ul {
+    left: 100%;
+    top: 0;
+}
+
+/* Active on Hover */
+.main-nav li:hover > ul {
+    display: block;
+}
+
+/* Child Indicator */
+.main-nav .has-children > a {
+    padding-right: 30px;
+}
+.main-nav .has-children > a:after {
+    font-family: FontAwesome;
+    content: '\f107';
+    position: absolute;
+    display: inline-block;
+    right: 8px;
+    top: 0;
+}
+
+.main-nav .has-children .has-children > a:after {
+    content: '\f105';
+}
+
+
+
+table {}
+
+td, th { 
+    vertical-align: top; text-align: left;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.9rem; line-height: 1.3rem;
+}
+
+div.bordertable table {
+    width: 100%;
+    margin: 1.5rem 0 0 0;  /* bottom tight for caption */
+    font-family: motiva-sans; 
+}
+
+div.bordertable table th { background: #333; color:  #eee; font-weight: 400;}
+div.bordertable table td { border: 1pt grey solid; }
+
+div.stripes table tr:nth-child(odd) {background: #eee}
+
+div.tablecaption {
+    font-size: .9rem; padding: 0 0rem; 
+    margin-top: -0.4rem; line-height: 1.3rem;
+}
+
+
+table p { margin-top: .2rem; text-indent: 0; }
+
+
+sup {font-size: 60%;}  /*Just to tweak it a little smaller*/
+sup a.footnote-ref {font-size:140%; font-weight: bold;} /* Except footnotes */
+
+
+/* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
+IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
+
+
+#breadcrumbs {
+    font-family: motiva-sans; font-size: 0.9rem;
+    height: 2rem !important; 
+    line-height: 2rem;
+}
+
+#breadcrumbs a {color: #999;}
+#breadcrumbs .itemprop {font-weight: bold;}
+
+@media  (max-width: 640px) {     /* SCRAP BREADCRUMBS ON MOBILE */
+ #breadcrumbs {display: none;}
+}
+
+#breadcrumbs span {
+    display: inline-block;
+    padding: 0 0rem;
+}
+#breadcrumbs span:first-child {
+    padding-left: 0;
+}
+#breadcrumbs i {
+    display: inline-block; font-size: 75%;
+    width: 20px; text-align: center;
+}
+#breadcrumbs i.dot:before {content: "\25a0"; color: #FC671F;
+    position: relative; bottom: .05em;}
+
+/*fa fa-angle-right*/

@@ -1,0 +1,14 @@
+<div class="header">
+    <div class="">
+        <a class="logo left" alt="Pop!" href="{{ home_url }}">
+            <img src="{{ url('theme://images/POPorange.png') }}" /> 
+        </a>
+
+        {% block header_navigation %}
+        <nav class="main-nav">
+            {% include 'partials/navigation.html.twig' %}
+        </nav>
+        {% endblock %}
+        
+    </div>
+</div>
