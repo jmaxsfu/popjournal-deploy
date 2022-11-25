@@ -1,6 +1,6 @@
 ---
 title: 'Colophon & Credits'
-subtitle: 'How Pop! is Made'
+deck: 'How Pop! is Made'
 date: 30-10-2020
 ---
 
