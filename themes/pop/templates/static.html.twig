@@ -21,6 +21,8 @@
     {% if header.subtitle %} <h1 class="subtitle">{{ header.subtitle|e('html') }}</h1>{% endif %}
 
 
+    {% if header.deck %} <div class="deck">{{ header.deck|e('html') }}</div>{% endif %}
+
     <div class="static">
     {{ page.content }}
     </div>
