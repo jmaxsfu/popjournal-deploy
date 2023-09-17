@@ -3,6 +3,7 @@ built_in_css: true
 inline_css: true
 refresh_prevention: false
 client_side_validation: true
+debug: false
 inline_errors: false
 files:
   multiple: false          # To allow multiple files, default is single
@@ -18,6 +19,11 @@ recaptcha:
     theme: light
     site_key:
     secret_key:
+turnstile:
+  theme: light                # options: [light | dark]
+  site_key:
+  secret_key:
+
 basic_captcha:
   type: characters            # options: [characters | math]
   chars:
