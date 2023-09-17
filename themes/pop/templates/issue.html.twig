@@ -21,7 +21,7 @@
 
   <p>Published {{ header.pubdate|date("M d, Y")}}</p>
 
-{{ page.content }}  {# ALLOWS ARBITRARY COMMENT BEFORE LISTING #}
+{{ page.content | raw }}  {# ALLOWS ARBITRARY COMMENT BEFORE LISTING #}
 
 
 {% for art in page.collection %}

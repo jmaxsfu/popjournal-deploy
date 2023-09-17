@@ -10,7 +10,7 @@
 
 {% block content %}
 
-{{ page.content }}  {# ALLOWS ARBITRARY COMMENT BEFORE LISTING #}
+{{ page.content | raw }}  {# ALLOWS ARBITRARY COMMENT BEFORE LISTING #}
 
 <div class="pure-g">  
 

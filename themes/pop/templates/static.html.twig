@@ -24,7 +24,7 @@
     {% if header.deck %} <div class="deck">{{ header.deck|e('html') }}</div>{% endif %}
 
     <div class="static">
-    {{ page.content }}
+    {{ page.content | raw }}
     </div>
   </div>  
     
