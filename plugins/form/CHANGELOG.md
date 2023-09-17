@@ -1,3 +1,43 @@
+# v7.2.1
+## 06/27/2023
+
+1. [](#improved)
+   * Added some optional debug output to help isolate form loading problems
+1. [](#bugfix)
+   * More robust fix for multi-language form caching
+
+# v7.2.0
+## 06/21/2023
+
+1. [](#bugfix)
+   * Fixed a long-standing bug with cached forms not working properly in multi-language scenarios
+
+# v7.1.3
+## 05/09/2023
+
+1. [](#improved)
+   * Removed `FILTER_SANITIZE_STRING` input filter in favor of `htmlspecialchars(strip_tags())` 
+   * Fixed a deprecated message when using `Route::_toString()`
+   * Require Grav `v1.7.41` as it contains `GRAV_SANITIZE_STRING` constant
+
+# v7.1.2
+## 01/08/2023
+
+1. [](#bugfix)
+   * Fixes issue with multiplication type BasicCaptcha Math Captcha [#587](https://github.com/getgrav/grav-plugin-form/issues/587)
+
+# v7.1.1
+## 11/29/2022
+
+1. [](#bugfix)
+   * Fix missing blueprint entries for Turnstile configuration [#583](https://github.com/getgrav/grav-plugin-form/issues/583)
+
+# v7.1.0
+## 11/16/2022
+
+1. [](#new)
+   * Added Cloudflare's `turnstile` captcha integration [documentation](https://learn.getgrav.org/17/forms/forms/fields-available#turnstile-field-cloudflare)
+
 # v7.0.2
 ## 10/05/2022
 
