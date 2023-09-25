@@ -163,3 +163,27 @@ Grâce au soutien financier de ses membres, le RCDR a également supprimé le pa
 
 
 <hr class="break">
+
+## Participants
+
+### Darcy Cullen à RavenSpace
+
+**Darcy Cullen** est directrice adjointe des acquisitions à la University of British Columbia Press (UBC Press) et fondatrice de RavenSpace. **RavenSpace**, une division de UBC Press, combine une plateforme unique, une suite de services et une équipe de professionnels passionnés pour publier des ressources numériques fiables par les détenteurs de connaissances autochtones et leurs collaborateurs de recherche.
+
+### RCDR
+
+Le **RCDR** fait progresser un accès interconnecté et durable aux recherches mondiales et au patrimoine documentaire canadien. Nous représentons 84 institutions membres à travers le Canada, y compris des bibliothèques universitaires et institutions de recherche de niveau mondial, ainsi que deux bibliothèques nationales et le plus vaste réseau de bibliothèques publiques du Canada.
+
+### Susan Haigh pour l’Association des bibliothèques de recherche du Canada
+
+**Susan Haigh** est directrice générale de l’Association des bibliothèques de recherche du Canada. Fondée en 1976, l’**ABRC** joue un rôle de chef de file pour renforcer la capacité de ses 31 bibliothèques membres à faire progresser la recherche et l’enseignement supérieur, notamment par le biais de nombreuses initiatives visant à promouvoir la création, la diffusion et la préservation de connaissances plus efficaces, durables et ouvertes.
+
+### Jessica Clark au nom du consortium Érudit
+
+**Jessica Clark** est coordinatrice principale du développement du libre accès chez Érudit. Éditrice expérimentée, elle a travaillé auparavant pour Coalition Publica, le Prix d’auteurs pour l’édition savante (PAES) et les Presses de l’Université d’Ottawa. **Érudit** est un consortium interuniversitaire canadien dont la mission est de soutenir la publication numérique ouverte et la recherche en sciences humaines et sociales.
+
+### Ray Siemens et Alyssa Arbuckle au nom du partenariat INKE
+
+**Ray Siemens** est professeur éminent à la faculté des sciences humaines de l’Université de Victoria, où il dirige le laboratoire des cultures textuelles électroniques, le partenariat Implementing New Knowledge Environments (INKE) et l’institut d’été des sciences humaines numériques. **Alyssa Arbuckle** est codirectrice du laboratoire des cultures textuelles électroniques à l’Université de Victoria, où elle est responsable opérationnelle du partenariat INKE et cofacilitatrice de son groupe Connection. Le partenariat **Implementing New Knowledge Environments (INKE)** est un réseau de recherche nord-américain dont l’objectif est de favoriser l’érudition sociale ouverte : une pratique académique qui permet la création, le partage et l’engagement de la recherche ouverte par des spécialistes et des non-spécialistes de manière accessible et significative.
+
+<hr class="break">
