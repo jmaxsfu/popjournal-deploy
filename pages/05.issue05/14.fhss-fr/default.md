@@ -6,7 +6,7 @@ doi: '10.54590/pop.2023.xxx'
 date: 01-10-2023
 author: 
 - name: 'Fédération des Sciences Humaines'
-- email: ''
+  email: 'hpaveck@federationhss.ca'
 abstract: ''
 deck: "Cinq organisations réprésentant des réseaux de conaissance, des bibliothèques de recherche, et des plateformes de publication se sont jointes à la Fédération des sciences humaines pour examiner la présent et l'avenir du libre accès—en politique et en pratique—au Canada."
 ---
