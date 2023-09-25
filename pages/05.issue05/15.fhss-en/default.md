@@ -3,16 +3,16 @@ title: 'Open Access in the Humanities and Social Sciences in Canada'
 subtitle: 'A Conversation'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
-- name: 'Canadian Federation for the Social Sciences and Humanities'
+- name: 'Federation for the Social Sciences and Humanities'
   email: 'hpaveck@federationhss.ca'
 abstract: ''
-deck: 'Five organizations representing knowledge networks, research libraries, and publishing platforms joined the Federation of Humanities and Social Sciences to review the present and the future of open access – in policy and in practice – in Canada'
+deck: 'Five organizations representing knowledge networks, research libraries, and publishing platforms joined the Federation of Humanities and Social Sciences to review the present and the future of open access—in policy and in practice—in Canada'
 ---
 
 *This piece by the Federation for the Humanities and Social Sciences was previously published in
-<a href="https://www.socialsciencespace.com/2023/05/open-access-in-the-humanities-and-social-sciences-in-canada-a-conversation/">Social Science Space</a> on May 10, 2023 and on the <a href="https://ospolicyobservatory.uvic.ca/2023/05/17/open-access-in-the-humanities-and-social-sciences-in-canada-a-conversation/">Open Scholarship Policy Observatory</a> on May 17, 2023.*
+<a href="https://www.socialsciencespace.com/2023/05/open-access-in-the-humanities-and-social-sciences-in-canada-a-conversation/">Social Science Space</a> on May 10, 2023 and on the <a href="https://ospolicyobservatory.uvic.ca/open-access-in-the-humanities-and-social-sciences-in-canada-a-conversation/">Open Scholarship Policy Observatory</a> on May 17, 2023.*
 
 
 <hr class="break">
@@ -167,5 +167,33 @@ CRKN has been active primarily in the area of unlocking scholarly communications
 On the commercial publishing side, CRKN has recently negotiated read and publish agreements with major global publishers, resulting in the unlocking of Canadian research for global readers in journals from Wiley, Cambridge University Press, and SAGE (including many from HSS disciplines). These agreements are cost-neutral for libraries and provide OA publishing options for Canadian authors at no cost. We estimate that over 6000 articles per year will be published with an open access license from these three agreements alone, the vast majority of which would have otherwise been published as subscription articles.
 
 Thanks to the financial support of our members, CRKN has also removed the paywall to access Canadian cultural content on the Canadiana platform, enabling transformative research on, and engagement with, the diverse stories of Canada’s past.
+
+<hr class="break">
+
+## Participants
+
+### Darcy Cullen at RavenSpace
+
+**Darcy Cullen** is Assistant Director, Acquisitions, at the University of British Columbia Press (UBC Press) and the founder of **RavenSpace**. RavenSpace, a division of UBC Press, combines a unique platform, suite of services, and team of passionate professionals to publish trusted digital resources by Indigenous knowledge-holders and their research collaborators.
+
+
+### CRKN
+
+**CRKN** advances interconnected, sustainable access to the world’s research and to Canada’s documentary heritage content. We represent 84 member institutions across Canada, including world-class academic libraries and research institutions, two national libraries, and Canada’s largest public library system.
+
+
+### Susan Haigh for the Canadian Association of Research Libraries
+
+**Susan Haigh** is Executive Director of the Canadian Association of Research Libraries. Founded in 1976, **CARL** provides leadership to enhance its 31 member libraries’ capacity to advance research and higher education, including many initiatives that aim to promote more effective, sustainable, and open knowledge creation, dissemination, and preservation.
+
+
+### Jessica Clark on behalf of Érudit
+
+**Jessica Clark** is Senior Coordinator, Open Access Development at Érudit. An experienced scholarly publisher, she has previously worked at Coalition Publica, the Awards to Scholarly Publications Program (ASPP) and the University of Ottawa Press. **Érudit** is a Canadian inter-university consortium whose mission is to support open digital publishing and research in the humanities and social sciences.
+
+
+### Ray Siemens and Alyssa Arbuckle on behalf of INKE
+
+**Dr. Ray Siemens** is a Distinguished Professor in the Faculty of Humanities at the University of Victoria, where he directs the Electronic Textual Cultures Lab, the Implementing New Knowledge Environments Partnership, and the Digital Humanities Summer Institute. **Dr. Alyssa Arbuckle** is the Co-Director of the Electronic Textual Cultures Lab at the University of Victoria, where she is Operational Lead for the Implementing New Knowledge Environments Partnership and a co-facilitator of its Connection cluster. The **Implementing New Knowledge Environments (INKE) Partnership** is a North American-based research network with the goal of fostering open social scholarship: academic practice that enables the creation, sharing, and engagement of open research by specialists and non-specialists in accessible and significant ways.
 
 <hr class="break">

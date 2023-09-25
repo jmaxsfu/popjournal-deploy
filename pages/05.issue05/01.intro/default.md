@@ -3,7 +3,7 @@ title: 'Introduction'
 subtitle: 'Reviewing, Refining, and Revising Open Social Scholarship'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Alyssa Arbuckle'
   affil: 'University of Victoria'

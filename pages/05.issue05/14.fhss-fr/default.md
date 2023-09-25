@@ -3,15 +3,15 @@ title: 'Le libre accès dans les sciences humaines au Canada'
 subtitle: 'une conversation'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Fédération des Sciences Humaines'
 - email: ''
 abstract: ''
-deck: ''
+deck: "Cinq organisations réprésentant des réseaux de conaissance, des bibliothèques de recherche, et des plateformes de publication se sont jointes à la Fédération des sciences humaines pour examiner la présent et l'avenir du libre accès—en politique et en pratique—au Canada."
 ---
 
-*Cet article par la Fédération des sciences humaines a été publié par Social Science Space le 10 mai 2023.*
+*Cet article par la Fédération des sciences humaines a été publié par l'[Open Scholarship Policy Observatory](https://ospolicyobservatory.uvic.ca/le-libre-acces-dans-les-sciences-humaines-au-canada-une-conversation/) le 17 mai 2023.*
 
 
 <hr class="break">

@@ -3,7 +3,7 @@ title: 'Describing the HSS Commons'
 subtitle: 'The View from Metadata'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Julia Bullard'
   affil: 'School of Information, University of British Columbia'

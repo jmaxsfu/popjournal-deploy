@@ -3,12 +3,12 @@ title: 'South Asian Canadian Digital Archive: '
 subtitle: 'Fostering Knowledge Diversity and Equity Through Multilingual Knowledge Infrastructures'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Thamilini Jothilingam'
   affil: 'University of the Fraser Valley'
   email: 'Thamilini.Jothilingam@ufv.ca'
-  orcid: ''
+  orcid: '0000-0002-0250-4814'
   bio: 'Thamilini Jothilingam (she/her/hers) is the Digital Asset Archivist for the South Asian Canadian Digital Archive at the South Asian Studies Institute at the University of the Fraser Valley. Thamilini’s research and archival interests centre at the confluence of art and anthropology, with a focus on gender, memory, cultural heritage, visual histories, and epistemic justice. Thamilini serves as a Board Member and Mentor at Noolaham Foundation and is currently the co-lead for the *Documentation of Sri Lankan Muslim Ephemera* project. Her past projects include the *Survey and Digital Preservation of Upcountry Tamil Archival Records* (Modern Endangered Archives Program, UCLA Library), *Digitization and Cataloguing of Sri Lankan Tamil Palm-Leaf Manuscripts* (Endangered Archives Programme, British Library) and *Multimedia Documentation of Traditional Trades and Crafts of Eastern, Northern and Upcountry Sri Lanka* (Wikimedia Foundation).'
 - name: 'Satwinder Kaur Bains'
   affil: 'University of the Fraser Valley'

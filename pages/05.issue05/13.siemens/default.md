@@ -3,7 +3,7 @@ title: 'I Stayed for the Community'
 subtitle: 'Collaboration and Community in an Open Social Scholarship Research Project'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Lynne Siemens'
   affil: 'University of Victoria'

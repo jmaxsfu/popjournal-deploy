@@ -3,7 +3,7 @@ title: 'Embracing Open Science at DARIAH-EU'
 subtitle: 'How Openness Became a Bridge Between Research Infrastructure Strategy and Research Realities in the Arts and Humanities'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Jennifer Edmond'
   affil: 'Trinity College Dublin'

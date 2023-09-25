@@ -3,7 +3,7 @@ title: 'Why DHSI-East?'
 subtitle: 'On Regional, National, and International Digital Humanities Training'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.xxx'
-date: 30-09-2023
+date: 01-10-2023
 author: 
 - name: 'Laura Estill'
   affil: 'St. Francis Xavier University'
