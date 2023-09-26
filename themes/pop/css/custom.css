@@ -259,6 +259,7 @@ img {
     object-fit: contain;
     border: 1px #dee solid;
 }
+img.smaller {width: 75%;}
 .logo img {border: 0;}
 
 figure figcaption {
