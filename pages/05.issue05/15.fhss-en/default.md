@@ -154,7 +154,7 @@ Another current initiative is the [Open Scholarship Policy Observatory](https://
 
 #### *Érudit*
 
-One of our key initiatives is the Partnership for Open Access (POA), first established in 2014 between Érudit and the Canadian Research Knowledge Network, which was specifically designed to support non-APC/Diamond OA. The POA’s first major achievement was to permit Érudit to reduce the moving wall for the scholarly journals on its platform from 24 months to 12 months, in alignment with federal OA policy, while ensuring journal sustainability. The POA continues to allow us to distribute over \$700,000 annually in financial support to Canadian scholarly journals. We’re proud that we can offer this support not only to the journals that maintain a 12-month moving wall but also to the journals that have embraced Diamond OA.  
+One of our key initiatives is the Partnership for Open Access (POA), first established in 2014 between Érudit and the Canadian Research Knowledge Network, which was specifically designed to support non-APC/Diamond OA. The POA’s first major achievement was to permit Érudit to reduce the moving wall for the scholarly journals on its platform from 24 months to 12 months, in alignment with federal OA policy, while ensuring journal sustainability. The POA continues to allow us to distribute over $700,000 annually in financial support to Canadian scholarly journals. We’re proud that we can offer this support not only to the journals that maintain a 12-month moving wall but also to the journals that have embraced Diamond OA.  
 
 #### *CARL*
 

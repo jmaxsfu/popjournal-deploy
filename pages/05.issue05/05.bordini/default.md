@@ -63,7 +63,7 @@ Even when addressed to an empirical reader, even when the “real addressee” w
 
 Importantly, by explicitly addressing a plurality of (present and future) readers, Aldus acknowledges the role of the reader(s) in the interpretation and transmission of the works of the past. For, if Lucretius was deemed by the ancients “a very great philosopher,” even though, according to Aldus, his ideas were “full of lies,” the final judgement ultimately rested with the reader and their own ability to engage with the text, critically and independently (2017, 167). The private, confidential tone of Aldus’s address (for example, the reference to his precarious health) takes on a public quality the moment he directly invites the reader to deliberate on issues of religious, moral, and political relevance (such as those covered in Lucretius’s work).
 
-## The Aldine Preface as “scene of active participation”
+## The Aldine Preface as “Scene of Active Participation”
 
 Aldus’s innovative use of the preface as a means of reaching a wider public is consistent with his editorial practice of stripping from the classical texts the corrupting interpolations of medieval commentaries in an effort to recover and preserve the integrity of the original. This practice, as we know, was informed by the humanist belief that classical texts “could speak for themselves without the intervention of commentary,” with an awareness that such texts “would attract a new kind of reader, whose literacy was not circumscribed by the monastery or university” (Summit 2008, 73).
 
@@ -75,7 +75,7 @@ Another example is the preface to Aesop’s *Fables*, which comes with a set of 
 
 The terms *public*, *public sphere*, and *public discourse* invoke modern notions of state, democracy, civil society, and active citizenship. In order to avoid committing the epistemological fallacy of anachronism, it is important to bear in mind that in Aldus’s time there was no such thing as a democracy. During the Renaissance, education was a privilege of the ruling (male-dominated) elite, and Aldus’s students were, de facto, “the children of the rich and very rich” (Harris 2016, 353). Even though we might reasonably argue that Aldus firmly believed in the possibility of bettering one’s economic, social, and moral status through education, it is unlikely that “he had any acquaintance with the culture of the piazza or the wine-shop” (Lowry 1979, 303). Yet this in no way diminishes the magnitude of his achievements or tarnishes his legacy. On the contrary, a historical lens helps evaluate Aldus’s stature and contributions with a greater and deeper awareness. A thorough and nuanced discussion of the emergence of the public sphere in Renaissance Europe, therefore, requires both a high level of historical specificity and a critical perspective, if we are to avoid enabling idealized and nostalgic versions of the past, and replicating overly simplistic, homogenous views of the public discourse(s)such as in Habermas’s formulation in today’s multicultural, transnational societies.
 
-## Aldus’s “poetic world-making”
+## Aldus’s “Poetic World-making”
 
 > . . . I do not regret my great efforts, which I have now performed for many years in editing good authors for your sake and for that of literary studies. . . . If I can produce something more important, as I hope, you will certainly be delighted, but posterity will be the greater beneficiaries; for myself, “with my head I shall touch the stars.”
 >
@@ -97,7 +97,7 @@ Della Rocca de Candal, Geri. 2020. “Printing in Greek before Aldus Manutius.�
 
 Fletcher, Henry George. 1988. *New Aldine Studies: Documentary Essays on the Life and Works of Aldus Manutius*. San Francisco: Bernard M. Rosenthal.
 
-Fraser, Nancy. 1990. “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.” *Social Text* 25/26: 56–80. doi: 10.2307/466240.
+Fraser, Nancy. 1990. “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.” *Social Text* 25/26: 56–80. [https://doi.org/10.2307/466240](https://doi.org/10.2307/466240).
 
 Graham, Shawn. 2019. *Failing Gloriously and Other Essays*. With a foreword by Eric C. Kansa and an afterword by Neha Gupta. Grand Forks, ND: The Digital Press at the University of North Dakota.
 
