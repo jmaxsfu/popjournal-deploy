@@ -25,6 +25,7 @@
 
 
 {% for art in page.collection %}
+  {# Need to figure out how to allow italics in titles #}
     <div class="articlelink">
        <a href="{{ art.url }}">{{ art.title }}{% if art.header.subtitle is not empty %}: {{ art.header.subtitle|e('html') }}{% endif %}</a>
        <span class="authorname">

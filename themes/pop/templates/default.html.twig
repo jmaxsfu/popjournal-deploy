@@ -18,8 +18,8 @@
   </div>
 {% endif %}
 
-<h1 class="title">{{ header.title|e('html') }}</h1>
-{% if header.subtitle %} <h1 class="subtitle">{{ header.subtitle|e('html') }}</h1>{% endif %}
+<h1 class="title">{{ header.title|markdown }}</h1>
+{% if header.subtitle %} <h1 class="subtitle">{{ header.subtitle|markdown }}</h1>{% endif %}
 
 <div class="pure-g" id="authordate">  
 
