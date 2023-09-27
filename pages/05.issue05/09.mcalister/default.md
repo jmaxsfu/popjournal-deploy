@@ -2,7 +2,7 @@
 title: 'Rhetoric, Research, and Revolution'
 subtitle: 'Analyzing Cultural Rhetorics to Rethink Pedagogical Frameworks'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.009'
 date: 01-10-2023
 author: 
 - name: 'Bailey McAlister'

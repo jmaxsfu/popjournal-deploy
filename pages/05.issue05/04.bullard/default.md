@@ -2,7 +2,7 @@
 title: 'Describing the HSS Commons'
 subtitle: 'The View from Metadata'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.004'
 date: 01-10-2023
 author: 
 - name: 'Julia Bullard'

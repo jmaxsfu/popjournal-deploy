@@ -2,7 +2,7 @@
 title: 'Media Art on Wikipedia'
 subtitle: 'Leveraging the Wikimedia Ecosystem to Address the Challenges and Opportunities of Media Art Institutions'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.008'
 date: 01-10-2023
 author: 
 - name: 'Stefan Glowacki'

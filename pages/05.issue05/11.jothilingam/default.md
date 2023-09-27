@@ -2,7 +2,7 @@
 title: 'South Asian Canadian Digital Archive: '
 subtitle: 'Fostering Knowledge Diversity and Equity Through Multilingual Knowledge Infrastructures'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.011'
 date: 01-10-2023
 author: 
 - name: 'Thamilini Jothilingam'

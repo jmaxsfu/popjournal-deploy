@@ -2,7 +2,7 @@
 title: 'Le libre accès dans les sciences humaines au Canada'
 subtitle: 'une conversation'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.014'
 date: 01-10-2023
 author: 
 - name: 'Fédération des Sciences Humaines'

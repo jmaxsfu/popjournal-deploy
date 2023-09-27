@@ -2,7 +2,7 @@
 title: 'Interactive Inspirations'
 subtitle: 'The Case for Incorporating Joy and Play in Open Social Scholarship'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.012'
 date: 01-10-2023
 author: 
 - name: 'Katie Fanning'

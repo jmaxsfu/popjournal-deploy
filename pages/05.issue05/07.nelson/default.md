@@ -2,7 +2,7 @@
 title: 'No Journal is an Island'
 subtitle: 'The John Donne Journal and the Possibilities of Open Access'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.007'
 date: 01-10-2023
 author: 
 - name: 'Brent Nelson'

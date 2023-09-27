@@ -1,7 +1,7 @@
 ---
 title: 'Exploring New (Digital) Publishing Practices with *Le Pressoir*'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.006'
 date: 30-09-2023
 author: 
 - name: 'Antoine Fauchié'

@@ -2,7 +2,7 @@
 title: 'Open Access in the Humanities and Social Sciences in Canada'
 subtitle: 'A Conversation'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.015'
 date: 01-10-2023
 author: 
 - name: 'Federation for the Social Sciences and Humanities'

@@ -2,7 +2,7 @@
 title: 'From Private Circles to Public Circulation'
 subtitle: 'Aldus Manutius & the Emergence of the “Public Sphere” in Renaissance Italy'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.54590/pop.2023.xxx'
+doi: '10.54590/pop.2023.005'
 date: 01-10-2023
 author: 
 - name: 'Alessandra Bordini'
