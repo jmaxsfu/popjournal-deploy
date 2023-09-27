@@ -91,7 +91,7 @@ I offer a final, but in no way conclusive, remark on the nature and orientation 
 
 ## References
 
-Bennett, W. Lance, ed. 2006. *Civic Life Online: Learning How Digital Media Can Engage Youth*. Cambridge, MA: MIT Press.
+Bennett, W. Lance, ed. 2007. *Civic Life Online: Learning How Digital Media Can Engage Youth*. Cambridge, MA: MIT Press. [https://doi.org/10.7551/mitpress/7893.001.0001](https://doi.org/10.7551/mitpress/7893.001.0001).
 
 Della Rocca de Candal, Geri. 2020. “Printing in Greek before Aldus Manutius.” In *Printing R-Evolution and Society 1450-1500. Fifty Years that Changed Europe*, edited by Cristina Dondi, 279–97. Venice: Edizioni Ca’ Foscari.
 
@@ -99,11 +99,11 @@ Fletcher, Henry George. 1988. *New Aldine Studies: Documentary Essays on the Lif
 
 Fraser, Nancy. 1990. “Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy.” *Social Text* 25/26: 56–80. [https://doi.org/10.2307/466240](https://doi.org/10.2307/466240).
 
-Graham, Shawn. 2019. *Failing Gloriously and Other Essays*. With a foreword by Eric C. Kansa and an afterword by Neha Gupta. Grand Forks, ND: The Digital Press at the University of North Dakota.
+Graham, Shawn. 2019. *Failing Gloriously and Other Essays*. With a foreword by Eric C. Kansa and an afterword by Neha Gupta. Grand Forks, ND: The Digital Press at the University of North Dakota. [https://doi.org/10.31356/dpb015](https://doi.org/10.31356/dpb015).
 
 Habermas, Jürgen. (1989) 1991. *The Structural Transformation of the Public Sphere*. Cambridge, MA: MIT Press.
 
-Habermas, Jürgen, Sara Lennox, and Frank Lennox. 1974. “The Public Sphere: An Encyclopedia Article (1964).” *New German Critique*, 3: 49–55.
+Habermas, Jürgen, Sara Lennox, and Frank Lennox. 1974. “The Public Sphere: An Encyclopedia Article (1964).” *New German Critique*, 3: 49–55. [https://doi.org/10.2307/487737](https://doi.org/10.2307/487737).
 
 Harris, Neil. 2016. “Aldus and the Making of the Myth (Or What Did Aldus Really Do?).” In *Aldo Manuzio. La costruzione del mito*, 346–85. Venice: Marsilio.
 
@@ -115,17 +115,17 @@ Manutius, Aldus. 2016. *The Greek Classics*. Translated and edited by N.G. Wilso
 
 Manuzio, Aldo. 2015. *La voce dell’editore: prefazioni e dediche*. Venice: Marsilio.
 
-Nuovo, Angela. 2013. *The Book Trade in the Italian Renaissance*. Translated by Lydia G. Cochrane. Leiden; Boston: Brill.
+Nuovo, Angela. 2013. *The Book Trade in the Italian Renaissance*. Translated by Lydia G. Cochrane. Leiden; Boston: Brill. [https://doi.org/10.1163/9789004208490_001](https://doi.org/10.1163/9789004208490_001).
 
 Plebani, Tiziana. 2016. “Aldo Manuzio e il patto con i lettori.” In *Aldo al lettore: viaggio intorno al mondo del libro in occasione del V Centenario della morte di Aldo Manuzio*, 132–50. Milano: Edizioni Unicopli.
 
-Summit, Jennifer. 2008. *Memory’s Library Medieval Books in Early Modern England*. Chicago: University of Chicago Press.
+Summit, Jennifer. 2008. *Memory’s Library Medieval Books in Early Modern England*. Chicago: University of Chicago Press. [https://doi.org/10.7208/chicago/9780226781723.001.0001](https://doi.org/10.7208/chicago/9780226781723.001.0001).
 
-Vacalebre, Natale. 2022. “Pax Aldina. Aldo Manuzio e libri come ponti di pace.” Public talk, Aldus Club, (Milan/online).
+Vacalebre, Natale. 2022. “Pax Aldina. Aldo Manuzio e libri come ponti di pace.” Public talk, Aldus Club, (Milan/online). [https://youtu.be/zGtS123erJs](https://youtu.be/zGtS123erJs).
 
 Villa, Dana. 2008. *Public Freedom*. Princeton: Princeton University Press.
 
-Warner, Michael. 2002. “Publics and Counterpublics.” *Public Culture* 14 (1): 49–90.
+Warner, Michael. 2002. “Publics and Counterpublics.” *Public Culture* 14 (1): 49–90. [https://doi.org/10.1215/08992363-14-1-49](https://doi.org/10.1215/08992363-14-1-49). 
 
 </div>
 
@@ -146,5 +146,5 @@ Prehistory from Saint Jerome to John Locke* (2017, 197).
 [^6]: See [https://digital.lib.sfu.ca/aldine-14306/page-7](https://digital.lib.sfu.ca/aldine-14306/page-7). Unsurprisingly, given Aldus’s single-minded commitment to quality, the error was promptly amended, as shown in the second title page of the copy held at Simon Fraser University Library. For more details of the first Aldine edition of *Catullus, Tibullus, Propertius*, see Fletcher, New Aldine Studies (1988), 100–06.
 
 [^7]: See, for example, the collection of essays, edited by W. Lance Bennett, *Civic Life Online: Learning How Digital Media Can
-Engage Youth* (2006).
+Engage Youth* (2007).
 
