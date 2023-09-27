@@ -163,7 +163,7 @@ Siemens, Lynne, and INKE Research Group. 2012a. "Firing on all Cylinders: Progre
 
 ———. 2020. "Where Lie the Similarities and Differences? A Comparison of University and Industry Partners in Collaboration." *Pop!: Public Open Participatory* (2). [https://popjournal.ca/issue02/siemens_inke](https://popjournal.ca/issue02/siemens_inke).
 
-Skelton, Lorraine. 2020. "A Study of the Industry/University/Government (UIG) Collaborative Project Organisation " PhD, Management, Massey University. [https://kula.uvic.ca/index.php/kula/article/view/88](https://kula.uvic.ca/index.php/kula/article/view/88).
+Skelton, Lorraine. 2020. "A Study of the Industry/University/Government (UIG) Collaborative Project Organisation " PhD, Management, Massey University. [https://mro.massey.ac.nz/handle/10179/16261](https://mro.massey.ac.nz/handle/10179/16261).
 
 Xin, Xu. 2020. "The Impact of the COVID-19 Pandemic on Global Research." *International Higher Education* (104): 18–19. [https://ejournals.bc.edu/index.php/ihe/article/view/14347](https://ejournals.bc.edu/index.php/ihe/article/view/14347).
 
