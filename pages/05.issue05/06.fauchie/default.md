@@ -177,8 +177,8 @@ Wormser, Gérard. 2018. *Facebook: L’école des fans*. Montréal: Sens public.
 
 </div>
 
-[^1]: MISSING (from "with a WYSIWYG interface")
+[^1]: WYSIWYG: What You See Is What You Get, the primary display and interaction mode of graphical user interfaces.
 
-[^2]: MISSING (from "Ateliers de \[sens public\]")
+[^2]: [https://ateliers.sens-public.org](https://ateliers.sens-public.org).
 
-[^3]: MISSING (from "Sens Public" [https://sens-public.org/](https://sens-public.org/)).
+[^3]: [https://sens-public.org](https://sens-public.org).
