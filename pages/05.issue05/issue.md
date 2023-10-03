@@ -11,7 +11,7 @@ content:
         dir: asc
     limit: 100
     pagination: true
-visible: false
+visible: true
 ---
 
 ## Proceedings of two INKE/CAPOS-hosted conferences: 

@@ -3,7 +3,7 @@ title: 'Public. Open. Participatory.'
 menu: 'Pop!' 
 content:
     items:
-      '@page': '/issue04'
+      '@page': '/issue05'
     order:
       by: default
       dir: asc
@@ -12,13 +12,13 @@ content:
 ---
 
 
-# Current Issue (#4):
+# Current Issue (#5):
 
-## *Putting Open Social Scholarship into Practice*
+## *Reviewing, Revising, and Refining Open Social Scholarship*
 
-November 15, 2022
+October 1, 2023
 
-## Proceedings of the Implementing New Knowledge Environments (INKE) Partnership and Canadian-Australian Partnership for Open Scholarship (CAPOS)-hosted conference: *Putting Open Social Scholarship into Practice*, December 2021.
+## Proceedings of two Implementing New Knowledge Environments (INKE) Partnership and Canadian-Australian Partnership for Open Scholarship (CAPOS)-hosted conferences: *Reviewing, Revising, and Refining Open Social Scholarship: Australasia* – November 2022; and *Reviewing, Revising, and Refining Open Social Scholarship: Canada* – January 2023
 
 
 ### &nbsp;
