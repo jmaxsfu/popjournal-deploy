@@ -1,6 +1,6 @@
 ---
 title: 'Security Culture as an Expression of Values'
-license: 'CC BY-SA 2.5 CA'
+license: 'CC BY 2.5 CA'
 doi: '10.54590/pop.2023.003'
 date: 01-10-2023
 author: 
