@@ -14,7 +14,7 @@ abstract: 'The establishment of the Aldine Press in 1494 marked a pivotal moment
 deck: ''
 ---
 
-![oil painting by Giorgione, Three Philosophers, c.1508–1509. Three sumptuously but very differently dressed phsilosophers: an old bearded man, possibly Greek; a Persian or Arab philosopher; and a sitting young man holding a right-angle triangle, in an outodoor landscape.](Giorgione-3Philosophers.jpg "Giorgione, <i>Three Philosophers</i>, c. 1508–1509. From the Kunsthistorisches Museum, Vienna, via Google ARts & Culture")
+![oil painting by Giorgione, Three Philosophers, c.1508–1509. Three sumptuously but very differently dressed phsilosophers: an old bearded man, possibly Greek; a Persian or Arab philosopher; and a sitting young man holding a right-angle triangle, in an outodoor landscape.](Giorgione-3Philosophers.jpg "Giorgione, <i>Three Philosophers</i>, c. 1508–1509. From the Kunsthistorisches Museum, Vienna, via Google Arts & Culture")
 
 
 
