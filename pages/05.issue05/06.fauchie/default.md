@@ -14,7 +14,7 @@ author:
   email: 'roch.delannay@umontreal.ca'
   orcid: '0000-0002-3519-4365'
   bio: "Roch Delannay is a PhD candidate in digital humanities at the Université de Paris Nanterre and the Université de Montréal. Under the supervision of Marta Severo, Marcello Vitali-Rosati and Emmanuel Château-Dutier, he is building his research at the crossroads of media studies and information and communication sciences on the role of researchers' intimacy in scientific publications."
-- name: 'Michael Sinatra'
+- name: 'Michael E. Sinatra'
   affil: 'Université de Montréal'
   email: 'michael.eberle.sinatra@umontreal.ca'
   orcid: '0000-0001-8943-4937'
