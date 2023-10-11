@@ -5,7 +5,7 @@ license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.015'
 date: 01-10-2023
 author: 
-- name: 'Federation for the Social Sciences and Humanities'
+- name: 'Federation for the Humanities and Social Sciences'
   email: 'hpaveck@federationhss.ca'
 abstract: ''
 deck: 'Five organizations representing knowledge networks, research libraries, and publishing platforms joined the Federation of Humanities and Social Sciences to review the present and the future of open access—in policy and in practice—in Canada'
