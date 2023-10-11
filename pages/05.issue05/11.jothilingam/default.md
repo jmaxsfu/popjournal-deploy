@@ -1,5 +1,5 @@
 ---
-title: 'South Asian Canadian Digital Archive: '
+title: 'South Asian Canadian Digital Archive'
 subtitle: 'Fostering Knowledge Diversity and Equity Through Multilingual Knowledge Infrastructures'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2023.011'
