@@ -2,19 +2,19 @@
 title: 'About'
 author: 
 - name: 'John Maxwell'
-date: 30-10-2020
+date: 30-01-2024
 visible: true
 ---
 
 *Pop!* aims to be a ‘small-batch, handcrafted’ journal that puts its community first, that wants to be read, and that makes care a priority: care for its content, care for its audience, and care for the kind of world it wants to serve.
 
-*Pop!* is a *Diamond Open-Access* publication. We do not charge fees to our authors, nor to our readers. The default license for articles is CC **BY-SA 2.5 CA** -- that is, [Attribution-ShareAlike 2.5 Canada](https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en) -- although when necessary authors may choose different variants of the CC license.
+*Pop!* is a *Diamond Open-Access* publication. We do not charge fees to our authors, nor to our readers. The default license for articles is **CC BY-SA 2.5 CA** -- that is, [Attribution-ShareAlike 2.5 Canada](https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en) -- although when necessary authors may choose different variants of the CC license. Pop! does not claim copyright; authors retain their copyrights. Pop! is deployed through Github, and content is archived there.
 
 *Pop!* is rooted in the humanities, but spans a variety of disciplines and is purposefully structured to be open to varieties of intellectual engagement. *Pop!* includes editorials, conference proceedings, articles, book and event reviews, interviews, and research features. It showcases peer reviewed scholarly articles, but also an array of shorter updates on projects and people interesting to our community, as curated by *Pop’s* interdisciplinary editorial board (listed below).
 
-*Pop* is published by the School for [Publishing @ Simon Fraser University](https://publishing.sfu.ca)
+*Pop* is published by the Canadian Institute for Studies in Publishing for [Publishing @ Simon Fraser University](https://publishing.sfu.ca)
 
-*Pop!* is blind peer-reviewed by members of our scholarly community, who evaluate each article for its originality, coherence, scholarship, and for its readability, not just for specialist audiences within the university, but for broader interested audiences.
+*Pop!* is peer-reviewed -- double anonymous review -- by members of our scholarly community, who evaluate each article for its originality, coherence, scholarship, and for its readability, not just for specialist audiences within the university, but for broader interested audiences.
 
 Write us at <info@popjournal.ca>!
 
